@@ -1,3 +1,46 @@
+# Haystack Muay Thai — Version 5 (authentic gym photography)
+
+**This package is a GitHub Pages-ready design preview, not the official Haystack website.**
+
+## What changed in V5
+
+- All three concepts now use authentic Haystack training and community images supplied from Scott's Facebook page for design review.
+- Concept A leads with adult kickboxing and emphasizes energy and technique.
+- Concept B leads with an instructor coaching a young student and emphasizes warmth, belonging, and youth programs.
+- Concept C leads with a knee-strike pad drill and emphasizes modern academy energy inspired by the gym's real mural.
+- All concepts now include distinctive photo-story sections and links to the supplied Facebook profile.
+- The comparison homepage now previews all three directions with real photos.
+- The belt-levels page now includes a training milestone photo. The searchable interactive explorer, 161 draft requirements, and print output are **unchanged**. The class schedule is also **unchanged**.
+
+## Permission / editorial review before publishing as an official site
+
+The eight new photographs were supplied from Haystack's Facebook page. Ask Scott to confirm the academy has permission to reuse them on the public site, especially photographs featuring minors, and that all featured imagery is current. These images are provisionally included in this **public GitHub Pages concept preview**; remove or replace any image if permission is not granted. Don't claim these are live social-media embeds; they are locally hosted static assets.
+
+Photo assets and source mapping:
+
+| File in `assets/community/` | Source user-uploaded file | Suggested use |
+|---|---|---|
+| `technique-drills.webp` | hs1.jpg | Elbow technique |
+| `knee-pad-training.webp` | hs2.jpg | Muay Thai pad technique |
+| `belt-celebration.webp` | hs3.jpg | Student progress and milestones |
+| `kickboxing-class.webp` | hs5.jpg | Adult kickboxing group |
+| `bag-work-class.webp` | hs6.jpg | More adult bag work |
+| `youth-teamwork.webp` | hs7.jpg | Youth program community |
+| `conditioning-class.webp` | hs8.jpg | Strength and conditioning |
+| `youth-coaching.webp` | hs9.jpg | Coach helping a young student |
+
+## GitHub Pages deployment
+
+1. Extract this ZIP.
+2. In `TimSwettlen/haystack-concepts` upload **all files and folders from inside** the extracted V5 folder (not the parent folder).
+3. When GitHub identifies existing file paths, commit the changes to `main`. The new `assets/community/` folder must be uploaded as well.
+4. Keep GitHub Pages set to **Deploy from a branch → main → /(root)**.
+5. Visit https://timswettlen.github.io/haystack-concepts/ after deployment.
+
+**Important:** GitHub's browser uploader is not always convenient for overwriting many existing files. The reliable alternative is GitHub Desktop (clone the repo, copy the V5 files over, commit, push) or Git CLI. If GitHub's web uploader refuses an overwrite, do not delete the entire repository; use GitHub Desktop or edit/update the files individually.
+
+---
+
 # Haystack Muay Thai — design concepts + interactive belt explorer (V4)
 
 **Unofficial working prototype for Scott's review**, not the current official Haystack website. GitHub Pages friendly; no framework, build tools, accounts, or API keys required.
