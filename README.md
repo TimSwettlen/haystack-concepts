@@ -1,17 +1,49 @@
-# Haystack Muay Thai — website concept prototypes
+# Haystack Muay Thai — design concepts + interactive belt explorer (V4)
 
-This package contains **three working, mobile-responsive HTML/CSS design explorations** using the 21 gym photographs provided by a member. It is **not the official gym site**. Nothing here changes haystackmuaythai.com.
+**Unofficial working prototype for Scott's review**, not the current official Haystack website. GitHub Pages friendly; no framework, build tools, accounts, or API keys required.
 
-## Preview
+## What's new in V4
 
-Open `index.html` to compare:
+- `/belt-levels/` is now an interactive curriculum explorer rather than a gallery of photos.
+- **161 searchable entries** across **nine ranks**: White, Yellow, Orange, Green, Blue, Purple, Red, Brown, and Camo. Long kata and pad-work sequences are kept as complete entries instead of split into potentially misleading steps.
+- Filter by belt and by the photographed headings: Fitness Requirements, Kata, Thai Pad Combo, Self Defense, Kick Defense, and Combinations.
+- Searches automatically span all nine ranks, and matching words are highlighted.
+- Practice checkboxes save *only in that person's browser* (localStorage). They are personal notes, **not a certification**, attendance record, or coach approval, and do not sync between devices.
+- **Print selected belt** and **Print all belts** create clear, text-based sheets with an empty checklist for each technique. A browser print dialog allows printing to paper or saving as PDF. The printouts show **DRAFT — SCOTT TO REVIEW** until he signs off.
+- Each belt provides the original source photo for comparison, along with alerts when glare or obstruction obscured text. `Black Belt and Beyond` remains separate pending confirmation.
+- Concepts A, B, and C now advertise the interactive belt guide; original gym photos, schedule demo, Instagram, and Facebook links are retained.
 
-- `/concept-a/`: Raw Energy — dark and athletic
-- `/concept-b/`: Community First — warm, friendly, family-oriented
-- `/concept-c/`: Modern Academy — lively, graphic sports branding
-- `/schedule/`: Haystack's currently published weekly class timetable, archived October 2026 monthly plan, and slots for Google Calendar or Sheet embeds
+## Critical source and accuracy note
 
-All concepts use the same real gym images in `/assets/`. They're resized/optimized for web.
+The 161 entries were manually transcribed from photographs taken in the gym November 19, 2026. This is a **working transcription**, not a verified curriculum. The images are partly obscured by glare and objects; White (jab defense), Yellow (fitness time), Orange (wrist defense wording), and Camo (lower-right details) have specific review notes. Scott should review all nine belts against his original documents **before printing official handouts**. No content was invented to fill illegible gaps. Small editorial changes such as standardized capitalization and writing "two-hand" for "2 hand" were made for readability.
+
+The source material is split between:
+
+- `belt-levels/requirements.js` — data actually loaded by the static website.
+- `belt-levels/requirements.json` — a JSON copy for structured editing or future integration.
+- `assets/belts/<belt>.webp` — optimized source photos for nine belt sheets.
+
+**Keep requirements.js and requirements.json in sync whenever Scott corrects the copy** (a developer can regenerate the JS file from JSON by prefixing `window.HAYSTACK_BELT_DATA = ` and adding `;` after the JSON). Each category holds a list of strings in order. Don't put unpublished private member information into the public source files.
+
+## How to print belt sheets
+
+1. Open `/belt-levels/` and select the belt, e.g. Blue.
+2. Choose **Print Blue belt** or **Print all belts**.
+3. In the browser's print dialog, print to paper, or choose **Save as PDF**.
+4. Once Scott has approved all contents, the draft banner can be removed from `belts.js` print templates and `index.html`; until then keep the approval marks.
+
+## Updating the live GitHub Pages prototype
+
+1. Download and extract this ZIP.
+2. Open `https://github.com/TimSwettlen/haystack-concepts` (not the existing Haystack site).
+3. Upload the **contents** of this ZIP to the repository root on `main`, replacing prior files. Keep `index.html` directly in the repository root; do not add an extra containing folder.
+4. GitHub Pages should deploy the new version. Visit `https://timswettlen.github.io/haystack-concepts/belt-levels/`.
+
+If browser uploading cannot overwrite multiple existing files comfortably, using GitHub Desktop to replace tracked local files and commit is a good alternative.
+
+---
+
+## Original project information and schedule setup
 
 ## Schedule source and limitations
 

@@ -1,0 +1,380 @@
+{
+  "status": "DRAFT for Scott review; transcription from November 2026 photographs",
+  "categories": [
+    "Fitness Requirements",
+    "Kata",
+    "Thai Pad Combo",
+    "Self Defense",
+    "Kick Defense",
+    "Combinations"
+  ],
+  "belts": [
+    {
+      "name": "White",
+      "slug": "white",
+      "months": 2,
+      "stripes": 16,
+      "photo": "../assets/belts/white.webp",
+      "sections": {
+        "Fitness Requirements": [
+          "Sit ups: 25",
+          "Push ups: 25",
+          "Right and left roundhouse (RH) kicks: 25 (timed: 30 seconds)"
+        ],
+        "Kata": [
+          "Jab, Backfist, Cross, Lead Elbow, Rear Elbow, Rear Knee, Switch Lead Knee"
+        ],
+        "Thai Pad Combo": [
+          "Jab, Roundhouse, Switch Knee (float back)"
+        ],
+        "Self Defense": [
+          "Jab defense: Pat to the Side",
+          "Jab defense: Pat Down"
+        ],
+        "Kick Defense": [
+          "Outside",
+          "Inside",
+          "Rear Shin Block"
+        ],
+        "Combinations": [
+          "Jab",
+          "Vertical Jab",
+          "Step-in High Jab (Chin)",
+          "Step-in Low Jab (Midsection)",
+          "Cross Punch",
+          "Cross Vertical Punch",
+          "Lead Knee Strike",
+          "Knee Strike",
+          "Roundhouse Kick (Low, Middle, High)",
+          "Push Kick (Lead, Rear)"
+        ]
+      },
+      "reviewNotes": [
+        "At least one jab-defense item is obscured by glare."
+      ]
+    },
+    {
+      "name": "Yellow",
+      "slug": "yellow",
+      "months": 2,
+      "stripes": 16,
+      "photo": "../assets/belts/yellow.webp",
+      "sections": {
+        "Fitness Requirements": [
+          "Sit ups: 30",
+          "Push ups: 30",
+          "Right and left roundhouse (RH) kicks: 30 (time limit obscured; verify with Scott)"
+        ],
+        "Kata": [
+          "Double Jab, Cross, Bob and Weave, Lead Hook, Cross, Rear Knee, Switch Knee, Rear Elbow, Lead Elbow, Rear Roundhouse, Switch Roundhouse"
+        ],
+        "Thai Pad Combo": [
+          "Jab, Cross, Switch Knee, Switch Roundhouse (float back)"
+        ],
+        "Self Defense": [
+          "Two-hand choke from behind",
+          "Two-hand choke from the front"
+        ],
+        "Kick Defense": [
+          "Middle Kick: Step Back",
+          "High Kick: Lean Back"
+        ],
+        "Combinations": [
+          "Lead Hook Punch",
+          "Hook Punch",
+          "Lead Horizontal Elbow",
+          "Horizontal Elbow",
+          "Lead Uppercut Elbow",
+          "Uppercut Elbow",
+          "Lead Slashing Elbow",
+          "Slashing Elbow",
+          "Lead Push Knee",
+          "Push Knee",
+          "Lunge Punch",
+          "Lead Sidekick",
+          "Turning Sidekick",
+          "Skip Sidekick"
+        ]
+      },
+      "reviewNotes": [
+        "Fitness row is partly washed out by glare; the number 30 is visible, but the timed interval needs confirmation."
+      ]
+    },
+    {
+      "name": "Orange",
+      "slug": "orange",
+      "months": 2,
+      "stripes": 16,
+      "photo": "../assets/belts/orange.webp",
+      "sections": {
+        "Fitness Requirements": [
+          "Sit ups: 35",
+          "Push ups: 35",
+          "Right and left roundhouse (RH) kicks: 35 (timed: 30 seconds)"
+        ],
+        "Kata": [
+          "Jab, Cross, Lead Hook, Cross, Switch Lead Knee, Rear Knee, Rear Uppercut Elbow, Lead Horizontal Elbow, Rear Slashing Elbow, Rear Knee, Switch Lead Knee, Spike Elbow"
+        ],
+        "Thai Pad Combo": [
+          "#1: Jab, Cross, Lead Hook, Rear Roundhouse, Lead Forearm Elbow, Switch Knee",
+          "#2: Jab, Cross, Lead Hook, Cross, Switch Roundhouse, Rear Knee; trainer throws Lead Hook to the Head; Counter Cross Punch"
+        ],
+        "Self Defense": [
+          "Same-Side Wrist Grab",
+          "Two-Handed Same-Side Wrist Grab",
+          "One-Hand Opposite Wrist Grab",
+          "Two-Hand Wrist Grab (Knee)"
+        ],
+        "Kick Defense": [
+          "Slide and Cover to the Body (both right and left)",
+          "Slide and Cover to the Head (both right and left)"
+        ],
+        "Combinations": [
+          "Lead Uppercut",
+          "Uppercut",
+          "Turning Back Kick"
+        ]
+      },
+      "reviewNotes": [
+        "Some wrist-grab text is partially covered by the reflected light; verify the wording of those items."
+      ]
+    },
+    {
+      "name": "Green",
+      "slug": "green",
+      "months": 4,
+      "stripes": 32,
+      "photo": "../assets/belts/green.webp",
+      "sections": {
+        "Fitness Requirements": [
+          "Sit ups: 40",
+          "Push ups: 40",
+          "Right and left roundhouse (RH) kicks: 40 (timed: 40 seconds)"
+        ],
+        "Kata": [
+          "Lead Push Kick, Cross, Lead Hook, Cross, Rear Push Kick, Rear Knee, Switch Lead Knee, Lead Uppercut Elbow, Rear Horizontal Elbow, Lead Slashing Elbow, Rear Knee, Lead Knee (Moving Forward), Rear Roundhouse (Facing Back), Rear Knee, Lead Knee (Moving Forward), Rear Roundhouse (Facing Back)"
+        ],
+        "Thai Pad Combo": [
+          "Jab, Lead Hook, Rear Roundhouse; trainer throws Rear Roundhouse; Slide and Catch, Counter Cross"
+        ],
+        "Self Defense": [
+          "Jab defense: Catch",
+          "Jab defense: Slip",
+          "Jab defense: Two-Hand Knuckle Block"
+        ],
+        "Kick Defense": [
+          "Trainer throws Roundhouse: Slide and Catch to the Body, Counter Rear Cross",
+          "Trainer throws Roundhouse: Slide and Catch to the Body, Counter Rear Elbow",
+          "Trainer throws Roundhouse: Slide and Catch to the Body, Plum the Neck, Counter Rear Knee Strike"
+        ],
+        "Combinations": [
+          "Spinning Uppercut Elbow: Stomach",
+          "Spinning Uppercut Elbow: Chin",
+          "Spinning Horizontal Elbow",
+          "Spinning Slashing Elbow",
+          "Lead Angled Knee",
+          "Angled Knee",
+          "Lead Slapping Knee",
+          "Slapping Knee"
+        ]
+      },
+      "reviewNotes": []
+    },
+    {
+      "name": "Blue",
+      "slug": "blue",
+      "months": 4,
+      "stripes": 32,
+      "photo": "../assets/belts/blue.webp",
+      "sections": {
+        "Fitness Requirements": [
+          "Sit ups: 45",
+          "Push ups: 45",
+          "Right and left roundhouse (RH) kicks: 45 (timed: 40 seconds)"
+        ],
+        "Kata": [
+          "Lead Hook, Rear Hook, Rear Knee, Lead Outside Shin Block, Rear Roundhouse, Lead Outside Shin Block, Switch Roundhouse, Cross, Lead Hook, Cross, Rear Pushkick"
+        ],
+        "Thai Pad Combo": [
+          "Jab, Lead Hook, Rear Angle Knee; trainer throws Rear Roundhouse; Slide and Catch, Rear Elbow, Plum the Neck, Rear Knee Strike"
+        ],
+        "Self Defense": [
+          "Kneeling Side Choke: Knee to Knee and Roll",
+          "Kneeling Side Choke: Knee Strike to the Head",
+          "Over the Top Choke: Buck and Roll"
+        ],
+        "Kick Defense": [
+          "Trainer throws Roundhouse: Slide and Catch to the Body, Step Back, Throw Leg, Counter Rear Roundhouse",
+          "Trainer throws Roundhouse: Slide and Catch to the Body, Counter Spinning Horizontal Elbow",
+          "Trainer throws Roundhouse: Slide and Catch to the Body, Step Back, Sweeping Kick"
+        ],
+        "Combinations": [
+          "Thai Vertical Jab",
+          "Lead Axe Kick",
+          "Axe Kick",
+          "Switch Axe Kick",
+          "Outside/In Axe Kick",
+          "Spike Elbow"
+        ]
+      },
+      "reviewNotes": []
+    },
+    {
+      "name": "Purple",
+      "slug": "purple",
+      "months": 6,
+      "stripes": 48,
+      "photo": "../assets/belts/purple.webp",
+      "sections": {
+        "Fitness Requirements": [
+          "Sit ups: 50",
+          "Push ups: 50",
+          "Right and left roundhouse (RH) kicks: 50 (timed: 40 seconds)"
+        ],
+        "Kata": [
+          "Double Jab, Cross, Bob and Weave, Lead Hook, Rear Horizontal Elbow, Rear Knee, Lead Push Kick, Rear Roundhouse (Face the Back), Rear Knee, Lead Knee (Walking Forward), Rear Roundhouse (Face the Front), Double Jab, Cross, Rear Horizontal Elbow, Spinning Backfist, Lead Shin Block"
+        ],
+        "Thai Pad Combo": [
+          "#1: Double Jab, Cross; trainer throws a Rear Hook; Bob and Weave, Lead Hook, Cross, Rear Roundhouse; trainer catches Rear Roundhouse; Spin Out",
+          "#2: Switch Roundhouse, Cross, Lead Hook; trainer throws a Low Switch Roundhouse; Lead Shin Block, Counter Low Rear Roundhouse"
+        ],
+        "Self Defense": [
+          "Head Lock",
+          "Bear Hug from the Front (Inside the Arms)",
+          "Bear Hug from Behind (Outside the Arms)",
+          "Roundhouse Kick Takedown (Dump the Head)",
+          "Push Kick Takedown (Dump the Head)"
+        ],
+        "Kick Defense": [
+          "Trainer throws Roundhouse Kick: Slide and Catch Under, Step In, Sweep the Leg, Take Down",
+          "Trainer throws Rear Push Kick: Slide and Catch Under, Step In, Sweep the Leg, Take Down",
+          "Trainer throws Turning Back Kick: Slide and Catch Under (using Rear Hand), Sweep Takedown"
+        ],
+        "Combinations": [
+          "Lunge Horizontal Elbow",
+          "Lunge Lead Horizontal Elbow",
+          "Lunge Uppercut Elbow",
+          "Lunge Lead Uppercut Elbow",
+          "Blind the Eyes Under Punch",
+          "Blind the Eyes Uppercut",
+          "Spinning Backfist",
+          "Spinning Hammer Fist"
+        ]
+      },
+      "reviewNotes": []
+    },
+    {
+      "name": "Red",
+      "slug": "red",
+      "months": 6,
+      "stripes": 48,
+      "photo": "../assets/belts/red.webp",
+      "sections": {
+        "Fitness Requirements": [
+          "Sit ups: 55",
+          "Push ups: 55",
+          "Right and left roundhouse (RH) kicks: 55 (timed: 50 seconds)"
+        ],
+        "Kata": [
+          "Lead Cover, Rear Cover, Jab, Cross, Lead Hook, Cross, Switch Lead Knee, Jab, Cross, Rear Roundhouse, Jab, Cross, Rear Roundhouse"
+        ],
+        "Thai Pad Combo": [
+          "Lead Jab, Lead Elbow, Switch Knee, Rear Elbow, Jab, Cross, Switch Knee"
+        ],
+        "Self Defense": [
+          "Jab defense: Right Hand Up / Left Hand Extended",
+          "Jab defense: Shoulder Check",
+          "Jab defense: Elbow Block"
+        ],
+        "Kick Defense": [
+          "Trainer throws Rear Roundhouse or Rear Pushkick: Step Back Parrying Block; Counter Low, Middle, and High Roundhouse",
+          "Trainer throws Rear Roundhouse Kick: Cover and Catch Under, Step Back; Counter Low Switch Roundhouse Sweep"
+        ],
+        "Combinations": [
+          "Lead Reverse Uppercut Elbow",
+          "Reverse Uppercut Elbow",
+          "Lead Reverse Horizontal Elbow",
+          "Reverse Horizontal Elbow"
+        ]
+      },
+      "reviewNotes": []
+    },
+    {
+      "name": "Brown",
+      "slug": "brown",
+      "months": 6,
+      "stripes": 48,
+      "photo": "../assets/belts/brown.webp",
+      "sections": {
+        "Fitness Requirements": [
+          "Sit ups: 60",
+          "Push ups: 60",
+          "Right and left roundhouse (RH) kicks: 60 (timed: 50 seconds)"
+        ],
+        "Kata": [
+          "Jab, Cross, Lead Uppercut, Rear Hook, Lead Hook, Rear Roundhouse, Rear Step-in Sidekick (Face the Back), Rear Roundhouse, Rear Step-in Sidekick (Face the Front), Lead Shin Block (with Knee), Jab, Cross, Rear Roundhouse, Switch Roundhouse, Rear Knee, Lead Roundhouse, Rear Roundhouse (Face the Back), Rear Knee, Lead Roundhouse, Rear Roundhouse (Face the Front)"
+        ],
+        "Thai Pad Combo": [
+          "Jab, Cross, Switch Roundhouse, Lead Jab, Rear Elbow, Switch Knee, Rear Elbow, Rear Roundhouse; Trainer Moves Forward; Lead Push Kick"
+        ],
+        "Self Defense": [
+          "Two-Hand Choke from the Front with Knee Strike",
+          "Two-Hand Choke from the Front (Pushing Back)",
+          "Two-Hand Choke from the Side (Pushing Back)"
+        ],
+        "Kick Defense": [
+          "Trainer throws Rear Roundhouse Kick: Cover and Catch Over, Step Back; Counter with Low Switch Roundhouse Sweep",
+          "Trainer throws Rear Push Kick: Catch Middle, Pull Through; Counter with Rear Horizontal Elbow"
+        ],
+        "Combinations": [
+          "Overhand Punch",
+          "Blind the Eyes Lead Hook Punch to the Body",
+          "Blind the Eyes Lead Hook Punch to the Head",
+          "Downward Knee",
+          "Roundhouse Knee",
+          "Fake Left, Right Knee",
+          "Step Through Horizontal Elbow"
+        ]
+      },
+      "reviewNotes": []
+    },
+    {
+      "name": "Camo",
+      "slug": "camo",
+      "months": 6,
+      "stripes": 48,
+      "photo": "../assets/belts/camo.webp",
+      "sections": {
+        "Fitness Requirements": [
+          "Sit ups: 65",
+          "Push ups: 65",
+          "Right and left roundhouse (RH) kicks: 65 (timed: 50 seconds)",
+          "One-mile run (timed: 10 minutes)"
+        ],
+        "Kata": [
+          "Switch Lead Knee, Jab, Cross, Lead Hook, Cross, Rear Push Kick, Lead Roundhouse, Rear Turning Back Kick (Face the Back), Rear Push Kick, Lead Roundhouse, Rear Turning Back Kick (Face the Front), Double Jab (Moving Forward), Cross, Bob and Weave, Lead Hook, Cross, Triple Jab (Moving Back)"
+        ],
+        "Thai Pad Combo": [
+          "Rear Roundhouse, Jump Rear Roundhouse; trainer throws Low Rear Roundhouse; Lead Shin Block; trainer throws Rear Push Kick; Step Back Parry; Counter Switch Low Sweeping Kick"
+        ],
+        "Self Defense": [
+          "Two-Handed Shoulder Grab (Against a Wall)",
+          "Two-Handed Shoulder Grab (Hip Throw)",
+          "Bear Hug from Behind (Shoulder Throw)"
+        ],
+        "Kick Defense": [
+          "Trainer throws Rear Roundhouse Kick: Timing Counter Foot Block",
+          "Trainer throws Rear Roundhouse Kick: Step In, Catch Leg, Grab Shoulder, Spin and Throw Down"
+        ],
+        "Combinations": [
+          "Reverse Angle Axe Kick",
+          "Jumping Knee",
+          "Jump 180 Back Kick"
+        ]
+      },
+      "reviewNotes": [
+        "The lower-right corner is obstructed. One kick-defense sequence and possibly other details are omitted pending a clearer source image."
+      ]
+    }
+  ]
+}
