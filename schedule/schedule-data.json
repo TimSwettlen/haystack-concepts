@@ -1,0 +1,289 @@
+{
+  "weekly": [
+    {
+      "day": "Monday",
+      "start": "8:15 AM",
+      "end": "9:00 AM",
+      "title": "Kickboxing",
+      "category": "adult"
+    },
+    {
+      "day": "Monday",
+      "start": "9:05 AM",
+      "end": "9:50 AM",
+      "title": "Kickboxing",
+      "category": "adult"
+    },
+    {
+      "day": "Monday",
+      "start": "4:15 PM",
+      "end": "4:55 PM",
+      "title": "Juniors",
+      "category": "youth"
+    },
+    {
+      "day": "Monday",
+      "start": "5:05 PM",
+      "end": "5:50 PM",
+      "title": "Kickboxing",
+      "category": "adult"
+    },
+    {
+      "day": "Monday",
+      "start": "5:55 PM",
+      "end": "6:40 PM",
+      "title": "Muay Thai",
+      "category": "adult"
+    },
+    {
+      "day": "Tuesday",
+      "start": "8:15 AM",
+      "end": "9:00 AM",
+      "title": "Bootcamp",
+      "category": "fitness"
+    },
+    {
+      "day": "Tuesday",
+      "start": "9:05 AM",
+      "end": "9:50 AM",
+      "title": "Kickboxing",
+      "category": "adult"
+    },
+    {
+      "day": "Tuesday",
+      "start": "4:15 PM",
+      "end": "4:45 PM",
+      "title": "Ninjas",
+      "category": "youth"
+    },
+    {
+      "day": "Tuesday",
+      "start": "4:50 PM",
+      "end": "5:30 PM",
+      "title": "Juniors",
+      "category": "youth"
+    },
+    {
+      "day": "Tuesday",
+      "start": "5:35 PM",
+      "end": "6:20 PM",
+      "title": "Muay Thai",
+      "category": "adult"
+    },
+    {
+      "day": "Tuesday",
+      "start": "6:30 PM",
+      "end": "7:15 PM",
+      "title": "Kickboxing",
+      "category": "adult"
+    },
+    {
+      "day": "Wednesday",
+      "start": "8:15 AM",
+      "end": "9:00 AM",
+      "title": "Kickboxing",
+      "category": "adult"
+    },
+    {
+      "day": "Wednesday",
+      "start": "9:05 AM",
+      "end": "9:50 AM",
+      "title": "Bootcamp",
+      "category": "fitness"
+    },
+    {
+      "day": "Wednesday",
+      "start": "4:15 PM",
+      "end": "4:45 PM",
+      "title": "Ninjas",
+      "category": "youth"
+    },
+    {
+      "day": "Wednesday",
+      "start": "4:50 PM",
+      "end": "5:30 PM",
+      "title": "Juniors",
+      "category": "youth"
+    },
+    {
+      "day": "Wednesday",
+      "start": "5:40 PM",
+      "end": "6:25 PM",
+      "title": "Kickboxing",
+      "category": "adult"
+    },
+    {
+      "day": "Wednesday",
+      "start": "6:30 PM",
+      "end": "7:15 PM",
+      "title": "Muay Thai",
+      "category": "adult"
+    },
+    {
+      "day": "Thursday",
+      "start": "8:15 AM",
+      "end": "9:00 AM",
+      "title": "Bootcamp",
+      "category": "fitness"
+    },
+    {
+      "day": "Thursday",
+      "start": "9:05 AM",
+      "end": "9:50 AM",
+      "title": "Kickboxing",
+      "category": "adult"
+    },
+    {
+      "day": "Thursday",
+      "start": "4:15 PM",
+      "end": "4:45 PM",
+      "title": "Ninjas",
+      "category": "youth"
+    },
+    {
+      "day": "Thursday",
+      "start": "5:15 PM",
+      "end": "6:00 PM",
+      "title": "Muay Thai",
+      "category": "adult"
+    },
+    {
+      "day": "Thursday",
+      "start": "6:05 PM",
+      "end": "6:50 PM",
+      "title": "Kickboxing",
+      "category": "adult"
+    },
+    {
+      "day": "Friday",
+      "start": "8:15 AM",
+      "end": "9:00 AM",
+      "title": "Kickboxing",
+      "category": "adult"
+    },
+    {
+      "day": "Friday",
+      "start": "9:05 AM",
+      "end": "9:50 AM",
+      "title": "Bootcamp",
+      "category": "fitness"
+    },
+    {
+      "day": "Saturday",
+      "start": "9:00 AM",
+      "end": "9:45 AM",
+      "title": "Kickboxing",
+      "category": "adult"
+    },
+    {
+      "day": "Saturday",
+      "start": "9:50 AM",
+      "end": "10:35 AM",
+      "title": "Muay Thai",
+      "category": "adult"
+    },
+    {
+      "day": "Saturday",
+      "start": "10:45 AM",
+      "end": "11:15 AM",
+      "title": "Ninjas",
+      "category": "youth"
+    },
+    {
+      "day": "Saturday",
+      "start": "11:20 AM",
+      "end": "12:00 PM",
+      "title": "Juniors",
+      "category": "youth"
+    }
+  ],
+  "monthly": {
+    "title": "October 2026",
+    "subtitle": "Attitude · Round 10 · Safety Month",
+    "training": {
+      "5": "pads/katas",
+      "6": "sparring drills",
+      "7": "pads",
+      "8": "pad drills",
+      "10": "freestyle",
+      "12": "def/combos",
+      "13": "pads/def",
+      "14": "katas",
+      "15": "pad/combo",
+      "17": "freestyle",
+      "19": "pads",
+      "20": "combos",
+      "21": "combo/pad",
+      "22": "sparring drills",
+      "24": "freestyle",
+      "26": "defense",
+      "27": "kata/pads",
+      "28": "defense",
+      "29": "def/pad",
+      "31": "freestyle"
+    },
+    "themes": [
+      {
+        "days": [
+          5,
+          6
+        ],
+        "title": "Stranger Awareness Week"
+      },
+      {
+        "days": [
+          7,
+          8
+        ],
+        "title": "Muay Thai Conditioning"
+      },
+      {
+        "days": [
+          12,
+          13
+        ],
+        "title": "Lost and Need to Know My Numbers"
+      },
+      {
+        "days": [
+          14,
+          15,
+          16,
+          17
+        ],
+        "title": "Stack Training Week"
+      },
+      {
+        "days": [
+          19,
+          20
+        ],
+        "title": "Bully Busting Week"
+      }
+    ],
+    "events": [
+      {
+        "day": 21,
+        "title": "Popsicle Day",
+        "category": "community"
+      },
+      {
+        "day": 24,
+        "title": "Halloween Extravaganza",
+        "time": "11:00 AM",
+        "category": "community"
+      }
+    ]
+  },
+  "source": "https://haystackmuaythai.com/haystack-class-schedule/",
+  "notes": [
+    "Afternoon appointments available for one-on-one or small groups.",
+    "Please call or text to reserve a spot for Adult Kickboxing only."
+  ],
+  "programs": {
+    "Ninjas": "Ages 4–7",
+    "Juniors": "Ages 7–13",
+    "Adults": "Ages 14+"
+  },
+  "asOf": "schedule photographs posted March and October 2026; verify before official use"
+}

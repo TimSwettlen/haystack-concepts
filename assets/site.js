@@ -1,0 +1,1 @@
+document.querySelectorAll("[data-nav-toggle]").forEach(btn=>{btn.addEventListener("click",()=>{let nav=document.getElementById(btn.getAttribute("aria-controls"));let open=nav.classList.toggle("is-open");btn.setAttribute("aria-expanded",String(open));});});
